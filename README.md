@@ -19,3 +19,7 @@ Overall our analysis was very in-depth and looked at a lot of data to come to co
 
 ## Summary 
 To summarize we needed to answer two questions. Is Pewlett Hackard ready for the silver tsunami and second do they have enough mentors. Overall, Pewlett Hackard is not ready for the silver tsunami simply due to the fact that they have a lot of older employees by our analysis meaning that these positions will soon need to be filled. Due to the fact that most positions are Senior Engineers, that means that Pewlett Hackard must either promote engineers currently employed and train them. However there are only 169 Senior Engineers eligible for the mentorship program meaning that it will be a lot of work since each Senior Engineer may have more than one pupil.
+
+![image3](https://github.com/mckjack/Pewlett-Hackard-Analysis/blob/main/Screenshot%20(63).png)
+
+In the following image by using our knowledge of SQL, we are able to answer the question does Pewlett Hackard have enough employees to mentor the future. That answer is no for the meantime simply due to the fact that each mentor would have to take on multiple students therefore it could be sustainable to combat the employee demand but it does question how strong the future employees will be in their respective position. 
